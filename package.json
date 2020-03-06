@@ -21,7 +21,7 @@
     "gatsby-source-filesystem": "next",
     "gatsby-transformer-remark": "next",
     "graphcool-graphiql": "^1.8.13",
-    "graphcool-styles": "^0.1.31",
+    "graphcool-styles": "^0.2.10",
     "graphql": "^0.10.3",
     "graphql-request": "^1.2.0",
     "lodash": "^4.17.4",
