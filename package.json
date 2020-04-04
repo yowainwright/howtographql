@@ -22,7 +22,7 @@
     "gatsby-transformer-remark": "next",
     "graphcool-graphiql": "^1.8.13",
     "graphcool-styles": "^0.2.10",
-    "graphql": "^0.10.3",
+    "graphql": "^0.13.2",
     "graphql-request": "^1.2.0",
     "lodash": "^4.17.4",
     "node-fetch": "^1.7.1",
