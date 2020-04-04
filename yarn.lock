@@ -3801,6 +3801,17 @@ graphcool-styles@^0.1.31:
     react-dom "^15.3.2"
     webpack-dev-server "^1.16.2"
 
+graphcool-styles@^0.2.10:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/graphcool-styles/-/graphcool-styles-0.2.10.tgz#e61e3152269323c70d3584cef1b57b2498aa8bff"
+  integrity sha1-5h4xUiaTI8cNNYTO8bV7JJiqi/8=
+  dependencies:
+    html-webpack-plugin "^2.24.1"
+    interactive "^0.1.9"
+    isomorphic-fetch "^2.2.1"
+    object-assign "^4.1.0"
+    webpack-dev-server "^1.16.2"
+
 graphiql@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/graphiql/-/graphiql-0.8.1.tgz#3bb65ea5dc44e251650af61a9e478e00707e6ee2"
