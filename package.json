@@ -40,7 +40,7 @@
     "react-inlinesvg": "^0.8.4",
     "react-jsx-parser": "git+https://github.com/timsuchanek/react-jsx-parser#components-object3",
     "react-particles-js": "^1.5.0",
-    "react-redux": "^5.0.5",
+    "react-redux": "^5.1.2",
     "react-swipeable-views": "^0.13.9",
     "react-transition-group": "^1.2.0",
     "redux": "^3.7.1",
