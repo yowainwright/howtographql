@@ -51,7 +51,7 @@
     "sitemap": "^1.13.0",
     "styled-jsx": "git+https://github.com/timsuchanek/styled-jsx#build",
     "styled-jsx-postcss": "git+https://github.com/timsuchanek/styled-jsx-postcss#build3",
-    "ts-loader": "^2.2.0",
+    "ts-loader": "^2.3.7",
     "tslint-config-prettier": "^1.18.0",
     "tslint-eslint-rules": "^4.1.1",
     "tslint-react": "^3.0.0",
