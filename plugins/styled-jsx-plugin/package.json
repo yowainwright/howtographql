@@ -5,7 +5,7 @@
   "author": "Tim Suchanek <tim.suchanek@gmail.com>",
   "dependencies": {
     "transform-runtime": "^0.0.0",
-    "ts-loader": "^2.0.3",
+    "ts-loader": "^8.0.14",
     "typescript": "^2.2.1"
   },
   "devDependencies": {
